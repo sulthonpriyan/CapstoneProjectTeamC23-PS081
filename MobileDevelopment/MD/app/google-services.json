@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "377033075690",
+    "firebase_url": "https://ni-tani-default-rtdb.firebaseio.com",
+    "project_id": "ni-tani",
+    "storage_bucket": "ni-tani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377033075690:android:180017ec26ebfaf0c9a093",
+        "android_client_info": {
+          "package_name": "com.dicoding.capstoneproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377033075690-h4kol42jj4ts1eg8s7epkr44vvi11lp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkbj7bkpHuMM-et0OBqRQDJdxDhmUgsEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377033075690-h4kol42jj4ts1eg8s7epkr44vvi11lp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

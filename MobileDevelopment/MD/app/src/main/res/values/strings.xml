@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">NiTani</string>
+    <string name="placeholder_search">Cari</string>
+    <string name="category_pupuk">Pupuk</string>
+    <string name="category_bibit">Bibit</string>
+    <string name="category_buah">Buah</string>
+    <string name="category_bahan_olahan">Bahan Olahan</string>
+    <string name="navigation_item_beranda">Beranda</string>
+    <string name="navigation_item_penjualan">Penjualan</string>
+    <string name="navigation_item_pencarian">Pencarian</string>
+    <string name="navigation_item_keranjang">Keranjang</string>
+    <string name="navigation_item_pengaturan">Pengaturan</string>
+    <string name="rekomendasi_madu">Madu Multiflora Wapas</string>
+    <string name="rekomendasi_kelapa">Bibit Kelapa Kopyor</string>
+    <string name="rekomendasi_lemon">Lemon California</string>
+    <string name="rekomendasi_madu_harga">Rp 80.000</string>
+    <string name="rekomendasi_kelapa_harga">Rp 25.000</string>
+    <string name="rekomendasi_lemon_harga">Rp 5.000</string>
+    <string name="required_point">%d Rupiah</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_cart">Tambah ke Keranjang : %d Rupiah</string>
+    <string name="total_order">Total pesanan : %d Rupiah</string>
+    <string name="back">Back</string>
+    <string name="dicoding_reward">Dicoding Reward</string>
+    <string name="share_message">Hey, I have redeem %1$d rewards in Dicoding with total %2$d Points. Do you want too?</string>
+    <string name="menu_cart">Keranjang</string>
+
+</resources>
